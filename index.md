@@ -4,6 +4,8 @@ VideoSwitch is the fastest way to create beautiful playlist for your music needs
 
 <img src="Simulator Screen Shot - iPhone XR - 2020-02-10 at 04.13.48.png" alt="app image" class="inline"/>
 
+The application is fast and reliable. It was tested by my friends and family who really like it, so I hope you do aswell :)
+
 
 If you have any questions regarding the app, feel free to email me on
 

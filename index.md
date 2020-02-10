@@ -1,6 +1,6 @@
 ## Welcome to Video Switch
 
-This is a new IOS application. 
+VideoSwitch is the fastest way to create beautiful playlist for your music needs. Many apps have alot of distracting processes with the app. When all you really want is a good video player with a no frills service.
 
 
 

@@ -26,4 +26,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-If you have any questions regarding the app, feel free to email me on **Bold** controlaltdelete444@gmail.com **Bold**
+If you have any questions regarding the app, feel free to email me on ## controlaltdelete444@gmail.com 

@@ -2,6 +2,7 @@
 
 VideoSwitch is the fastest way to create beautiful playlist for your music needs. Many apps have alot of distracting processes with the app. When all you really want is a good video player with a no frills service.
 
+<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
 
 
 If you have any questions regarding the app, feel free to email me on
